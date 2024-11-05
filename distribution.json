@@ -12,7 +12,7 @@
       "name": "버니랜드",
       "description": "BunnyLand Running Minecraft 1.20.4 (Fabric v0.16.9)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "182.172.120.50",
       "minecraftVersion": "1.20.4",
       "discord": {
@@ -253,6 +253,16 @@
             "size": 1169261,
             "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/fabricmods/required/YetAnotherConfigLib-3.6.1+1.20.4-fabric.jar",
             "MD5": "6505fa7f844ef9c3ec66d435c259c1e7"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5280,
+            "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/files/options.txt",
+            "path": "options.txt"
           }
         },
         {
