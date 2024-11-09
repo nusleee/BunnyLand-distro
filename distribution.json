@@ -12,7 +12,7 @@
       "name": "버니랜드",
       "description": "BunnyLand Running Minecraft 1.20.4 (Fabric v0.16.9)",
       "icon": null,
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "182.172.120.50",
       "minecraftVersion": "1.20.4",
       "discord": {
@@ -116,6 +116,26 @@
           ]
         },
         {
+          "id": "com.tterrag:blur:3.2.0@jar",
+          "name": "Blur (Fabric)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 155092,
+            "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/fabricmods/required/blur-3.2.0.jar",
+            "MD5": "72dfc9ed13eab2bf1c83ec1e4aa68858"
+          }
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:0.13.4@jar",
+          "name": "Chat Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 72981,
+            "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/fabricmods/required/chat_heads-0.13.4-fabric-1.20.4.jar",
+            "MD5": "0fbcaa77f62851d06c7dab0d2592441d"
+          }
+        },
+        {
           "id": "shcm.shsupercm:citresewn:1.1.4+1.20.4@jar",
           "name": "CIT Resewn",
           "type": "FabricMod",
@@ -143,6 +163,16 @@
             "size": 88306,
             "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/fabricmods/required/cosmeticarmorreworked-1.20.4-v1a-neoforge.jar",
             "MD5": "3cbc5dd1932888edf1f3a444565b98dc"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.7.1@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 71540,
+            "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/fabricmods/required/entityculling-fabric-1.7.1-mc1.20.4.jar",
+            "MD5": "30763990b1d51fa721e0dd09d3a2263e"
           }
         },
         {
@@ -270,9 +300,9 @@
           "name": "shader.zip",
           "type": "File",
           "artifact": {
-            "size": 1669167,
+            "size": 446661,
             "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/files/shaderpacks/shader.zip",
-            "MD5": "fb757db17e378d3174611d4d0698280d",
+            "MD5": "50893f00c06b63dfd140dbcac22cc69f",
             "path": "shaderpacks/shader.zip"
           }
         }
