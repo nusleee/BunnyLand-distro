@@ -12,7 +12,7 @@
       "name": "버니랜드",
       "description": "BunnyLand Running Minecraft 1.20.4 (Fabric v0.16.9)",
       "icon": null,
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "182.172.120.50",
       "minecraftVersion": "1.20.4",
       "discord": {
@@ -216,6 +216,16 @@
           }
         },
         {
+          "id": "snownee.jade:jade:13.3.1@jar",
+          "name": "Jade",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 587222,
+            "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/fabricmods/required/Jade-1.20.4-fabric-13.3.1.jar",
+            "MD5": "05c4597bdd78e0d194d76502c587df24"
+          }
+        },
+        {
           "id": "journeymap:journeymap:5.10.0@jar",
           "name": "Journeymap",
           "type": "FabricMod",
@@ -223,6 +233,26 @@
             "size": 7209750,
             "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/fabricmods/required/journeymap-1.20.4-5.10.0-fabric.jar",
             "MD5": "51fd7c0a120638305365e6431bcbf602"
+          }
+        },
+        {
+          "id": "de.keksuccino:justzoom:2.0.0@jar",
+          "name": "Just Zoom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 193004,
+            "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/fabricmods/required/justzoom_fabric_2.0.0_MC_1.20.4.jar",
+            "MD5": "72eb9b136889a2e6e636bf29b476ec1c"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.9.2@jar",
+          "name": "Konkrete",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 785596,
+            "url": "https://raw.githubusercontent.com/nusleee/BunnyLand-distro/main/servers/BunnyLand-1.20.4/fabricmods/required/konkrete_fabric_1.9.2_MC_1.20.4.jar",
+            "MD5": "5207d60a19db3a98d3be1c8cae732173"
           }
         },
         {
